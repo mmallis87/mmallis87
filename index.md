@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### 🚢 Ahoy!
+I'm Majid. SF bay-area based full-stack developer and generalist software engineer working at DocuSign since 2016 and counting.
 
-You can use the [editor on GitHub](https://github.com/mmallis87/mmallis87/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=mmallis87)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmallis87/mmallis87/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working at [DocuSign for Developers](https://developers.docusign.com/)
+- 🌱 I’m currently learning Neural Networks and Ant Design library
+- 👯 I’m looking to collaborate on:
+  - ML models for stock market prediction
+  - Decentralized global workplace
+  - Any big ideas that are useful and that don't do harm
+- 🤔 I’m looking for help with
+  - ~~My taxes!~~
+  - Gardening tips and growing food
+  - Any advice to help me become a better person
+- 💬 Ask me about anything [here](https://github.com/mmallis87/mmallis87/issues)
+- 📫 How to reach me: 👈👈👈
+- ⚡ Fun facts: My name is pronounced as "mageed". I'm in love football (yes soccer!!) and my favorite club is Barcelona. I speak 3 languages fluently and understand 2 others but I wish I knew lot more. 
