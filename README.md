@@ -10,7 +10,7 @@ I'm Majid. SF bay-area based full-stack developer and generalist software engine
   - Decentralized global workplace
   - Any big ideas that are useful and that don't do harm
 - 🤔 I’m looking for help with
-  - My taxes!
+  - ~~My taxes!~~
   - Gardening tips and growing food
   - Any advice to help me become a better person
 - 💬 Ask me about anything [here](https://github.com/mmallis87/mmallis87/issues)
