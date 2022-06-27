@@ -1,5 +1,5 @@
 ### 🚢 Ahoy!
-I'm Majid. SF bay-area based full-stack developer and generalist software engineer working at DocuSign since 2016 and counting.
+I'm Majid. SF bay-area based full-stack developer and generalist software engineer working at Google.
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=mmallis87)
 
